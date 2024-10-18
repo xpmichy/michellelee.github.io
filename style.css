@@ -1,0 +1,24 @@
+body{background-image: url('https://th.bing.com/th/id/OIP.uq34Xe6PJWyjvb4tIMj0VQHaF5?rs=1&pid=ImgDetMain');
+  
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+
+    }
+
+    
+  
+
+    h1 {text-align: center;}
+    h2 {text-align: center;}
+    
+    #top,#middle{
+        height: 200px;
+        width: 1000px;}
+        #bottom{
+          height: 400px;
+          width: 1000px;
+        }
+    
+   
